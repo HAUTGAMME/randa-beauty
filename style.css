@@ -66,4 +66,10 @@ body { font-family: 'Inter', sans-serif; background: var(--cream-bg); color: var
 .btn-mini { display: block; padding: 14px; background: var(--brown-dark); color: white; text-decoration: none; font-weight: 600; text-transform: uppercase; }
 
 .separator { border: none; height: 1px; background: rgba(0,0,0,0.05); margin: 50px 0; }
-footer { padding: 50px 20px; text-align: center; background: #1a1a1a; color: #888; font-size: 0.7rem; }
+footer { 
+    padding: 50px 20px; 
+    text-align: center; 
+    background: var(--brown-dark); /* Baddel hadhi bech yji m3a el site */
+    color: #888; 
+    font-size: 0.7rem; 
+}
